@@ -60,8 +60,8 @@ motto       : "The sky is not the limit — it's the beginning."
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammedmesnadi20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedmesnadi20&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
 
 </div>
 
@@ -69,7 +69,7 @@ motto       : "The sky is not the limit — it's the beginning."
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=mohammedmesnadi20&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
@@ -79,7 +79,7 @@ motto       : "The sky is not the limit — it's the beginning."
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=mohammedmesnadi20&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1)
 
 </div>
 
@@ -89,7 +89,7 @@ motto       : "The sky is not the limit — it's the beginning."
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/mohammedmesnadi20/mohammedmesnadi20/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -99,8 +99,8 @@ motto       : "The sky is not the limit — it's the beginning."
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mesnadi-mohammed)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedmesnadi20@gmail.com)
 
 </div>
 
@@ -111,4 +111,3 @@ motto       : "The sky is not the limit — it's the beginning."
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0a3d62,100:0d1117&height=120&section=footer" />
 
 </div>
-
